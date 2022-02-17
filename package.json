@@ -1,0 +1,12 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drewsoon/bike-math.git"
+  },
+  "name": "@drewsoon/bike-math",
+  "version": "3.0.0",
+  "description": "\"Simple bike related math helpers\"",
+  "main": "index.js",
+  "author": "drewsoon",
+  "license": "MIT"
+}
